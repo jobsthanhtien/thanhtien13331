@@ -1,0 +1,1172 @@
+{
+  "data": {
+    "8160929750": {
+      "metalist": [
+        {
+          "contentMainId": 16939768,
+          "contentId": "17658636187020001",
+          "name": "og:url",
+          "content": "https://www.lazada.vn/",
+          "__pos__": 1,
+          "__track__": "5271211.5271211.26239359.6622.1"
+        },
+        {
+          "contentMainId": 16939769,
+          "contentId": "17658636187040002",
+          "name": "og:type",
+          "content": "website",
+          "__pos__": 2,
+          "__track__": "5271211.5271211.26239359.6622.2"
+        },
+        {
+          "contentMainId": 16939770,
+          "contentId": "17658636187070003",
+          "name": "og:title",
+          "content": "Lazada Việt Nam | Mua Sắm Online, Giá Tốt Nhất Mỗi Ngày",
+          "__pos__": 3,
+          "__track__": "5271211.5271211.26239359.6622.3"
+        },
+        {
+          "contentMainId": 16939771,
+          "contentId": "17658636187090004",
+          "name": "og:description",
+          "content": "Mua sắm đồ điện tử, thời trang, làm đẹp và đồ chơi giá cả phải chăng. Đảm bảo sản phẩm chính hãng và trải nghiệm mua sắm tiện lợi – mua ngay và tận hưởng những ưu đãi tốt nhất!",
+          "__pos__": 4,
+          "__track__": "5271211.5271211.26239359.6622.4"
+        },
+        {
+          "contentMainId": 16939772,
+          "contentId": "17658636187120005",
+          "name": "og:image",
+          "content": "/faviocn.ico",
+          "__pos__": 5,
+          "__track__": "5271211.5271211.26239359.6622.5"
+        }
+      ],
+      "seometa": {
+        "contentMainId": 16940507,
+        "metaIndex": "index,follow",
+        "canonicalTag": "https://www.lazada.vn/",
+        "contentId": "17658635968800001",
+        "description": "Mua sắm đồ điện tử, thời trang, làm đẹp và đồ chơi giá cả phải chăng. Đảm bảo sản phẩm chính hãng và trải nghiệm mua sắm tiện lợi – mua ngay và tận hưởng những ưu đãi tốt nhất!",
+        "title": "Lazada Việt Nam | Mua Sắm Online, Giá Tốt Nhất Mỗi Ngày",
+        "__pos__": 1,
+        "__track__": "5277003.5277003.26240322.6622.1"
+      }
+    },
+    "8849744590": {
+      "attr": {
+        "hidden": false,
+        "__pos__": 1,
+        "__track__": "5750192.5750192.26895855.6622.1"
+      },
+      "seoInfo": {
+        "seoList": [
+          {
+            "title_vi": "Lazada Video",
+            "paragraphs_en": "<p><a href=\"https://www.lazada.vn/videolist/\" target=\"_self\">Lazada Video</a>&nbsp;</p>\n",
+            "isTitleLineBreak": true,
+            "paragraphs_vi": "<p><a href=\"https://www.lazada.vn/videolist/\" target=\"_self\">Lazada Video</a>&nbsp;</p>\n",
+            "title_en": "Lazada Video"
+          }
+        ],
+        "__pos__": 1,
+        "__track__": "6446406.6446406.27722845.6622.1"
+      },
+      "pcHomepageData": {
+        "sections": [
+          {
+            "id": 1791170522703,
+            "moduleId": "platformCampaignBanner",
+            "fields": {
+              "settings": {
+                "data": {
+                  "bannerBackgroundColor": "#FF81A0",
+                  "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&at_iframe=1&lzd_navbar_hidden=true&pha=true&prefetch_replace=1&wh_pid=/lazada/megascenario/vn/sale-10-10-2026/lich-sale-giu-chuoi",
+                  "bannerImg": "https://img.lazcdn.com/us/domino/f13f137f-29f0-442e-b645-d68e28042380_VN-1188-80.gif",
+                  "bannerSize": "1188x80"
+                },
+                "configPrimaryKey": 81772
+              },
+              "datas": []
+            }
+          },
+          {
+            "id": 1791170522703,
+            "moduleId": "appDownloadPC",
+            "fields": {
+              "settings": {
+                "downloadConfig": {
+                  "downloadUrlForAndroid": "https://play.google.com/store/apps/details?id=com.lazada.android",
+                  "downloadUrlForIos": "https://itunes.apple.com/app/id785385147",
+                  "downloadGuidedText_en": "Download the App now by scanning the QR code",
+                  "qrCodeForDownload": "https://lzd-img-global.slatic.net/us/domino/c7412e89f2d826219b7a37ed5f7d6d50.png",
+                  "downloadGuidedText_vi": "Quét mã QR và tải App ngay",
+                  "downloadGuidedText": "Quét mã QR và tải App ngay"
+                },
+                "titleAndContent": {
+                  "iconText2_vi": "VOUCHER ĐỘC QUYỀN",
+                  "iconText1_vi": "MIỄN PHÍ VẬN CHUYỂN",
+                  "subTitleText_en": "Get the Lazada App to enjoy",
+                  "appScore_vi": "Đánh giá 4.7 sao",
+                  "titleLogoUrl_en": "https://lzd-img-global.slatic.net/us/domino/a96c58a6a88070c43bc63444f6774f51.png",
+                  "titleLogoUrl": "https://lzd-img-global.slatic.net/us/domino/a96c58a6a88070c43bc63444f6774f51.png",
+                  "subTitleText_vi": "Tải ngay App Lazada để tận hưởng",
+                  "subTitleText": "Tải ngay App Lazada để tận hưởng",
+                  "titleText_vi": "TRẢI NGHIỆM LAZADA NGAY",
+                  "iconText2": "VOUCHER ĐỘC QUYỀN",
+                  "appScore_en": "4.7 Rated",
+                  "iconText1": "MIỄN PHÍ VẬN CHUYỂN",
+                  "titleText": "TRẢI NGHIỆM LAZADA NGAY",
+                  "iconText1_en": "FREE SHIPPING",
+                  "iconText2_en": "EXCLUSIVE VOUCHERS",
+                  "appScore": "Đánh giá 4.7 sao",
+                  "titleText_en": "TRY LAZADA APP",
+                  "titleLogoUrl_vi": "https://lzd-img-global.slatic.net/us/domino/a96c58a6a88070c43bc63444f6774f51.png"
+                },
+                "configPrimaryKey": 43015
+              },
+              "datas": []
+            }
+          },
+          {
+            "id": 1791170522703,
+            "moduleId": "bannerSliderDesktop",
+            "fields": {
+              "settings": {
+                "data": [
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "MO1: D10 COUNTDOWN",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/c17ff441-6e09-424b-91aa-8b3848674590_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&at_iframe=1&lzd_navbar_hidden=true&pha=true&prefetch_replace=1&wh_pid=/lazada/megascenario/vn/sale-10-10-2026/lich-sale-giu-chuoi",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/c17ff441-6e09-424b-91aa-8b3848674590_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/51789218-4e44-41d7-979c-e258fe06acc7_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "MO1: Tmall",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/14a235ed-5218-48cc-8cc4-6bdede399cfb_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/vn/lazmall-channel/thuong-hieu-trung-chinh-hang",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/14a235ed-5218-48cc-8cc4-6bdede399cfb_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/a128ff02-a9de-4567-ab22-c34c89351670_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "MO3: Tmall BD_GM_Tmall_Brand Day_Multi Sellers",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/fb1f4780-d00c-403b-9208-85f6070709c6_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?pha=true&wx_navbar_transparent=true&hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/superseries/vn/tmall-brand-day-0510/nha-cua-doi-song&lzd_navbar_hidden=true&disable_pull_refresh=true&disable_bounces=true",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/fb1f4780-d00c-403b-9208-85f6070709c6_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/ad99e5d4-f5d0-43d8-8d6d-b873108bff81_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "MO4: MS_Tier 2_FMCG_Tmall_Brand Day_Multi Sellers_HB",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/fdbed241-3a97-4fc6-afea-26a848754a0b_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?wx_navbar_transparent=true&hybrid=1&data_prefetch=true&at_iframe=1&disable_bounces=true&lzd_navbar_hidden=true&disable_pull_refresh=true&prefetch_replace=1&wh_pid=/lazada/superseries/vn/tmallbd_multi_fmcg_hb_5-6oct26/kSa7ziGH4K",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/fdbed241-3a97-4fc6-afea-26a848754a0b_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/e91ff209-0ef1-4848-9b1a-c215ed267123_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "MO5: CONCERT",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/b7c31a6d-dbbc-45fc-8667-cd775b8f8c48_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/vn/khuyen-mai/concert-kit",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/b7c31a6d-dbbc-45fc-8667-cd775b8f8c48_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/fe547490-3cfd-4d1c-9b66-36d95deec464_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "MO6: G-MARKET",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/34fa4c52-9133-44b9-81eb-d397a5bbf622_VN-1976-688.jpg",
+                    "bannerUrl": "https://www.lazada.vn/shop/gmarket-korea",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/34fa4c52-9133-44b9-81eb-d397a5bbf622_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/4877007b-d81f-4126-8aed-cd7a0088d9ac_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "MB",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/01c4ad42-91a8-466c-87ce-c2fa03d341e4_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?wx_navbar_transparent=true&hybrid=1&data_prefetch=true&at_iframe=1&disable_bounces=true&lzd_navbar_hidden=true&pha=true&disable_pull_refresh=true&prefetch_replace=1&wh_pid=/lazada/megascenario/vn/lazmom-09-2026/trang-chinh",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/01c4ad42-91a8-466c-87ce-c2fa03d341e4_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/0c23a9aa-46cd-4230-aa9b-6f57bd286b3c_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "MO9: LazBeauty",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/dd459d14-cd0b-49bd-bce5-095a6623b8c9_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/vn/VNlazbeauty/lazbeauty",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/dd459d14-cd0b-49bd-bce5-095a6623b8c9_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/2fcd9103-11a1-4644-aa85-e033b0720ea8_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "MO4: LazGlobal",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/7001f3f8-ad9d-42f4-a613-563290d1f7a1_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?at_iframe=1&hybrid=1&data_prefetch=true&prefetch_replace=1&wh_pid=/lazada/channel/vn/lazglobalchannel/Laz-Quoc-Te",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/7001f3f8-ad9d-42f4-a613-563290d1f7a1_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/14ffcbf8-a3fb-43ad-8935-937288bd0e9c_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "FA",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/4a476eeb-a57b-4735-bd0f-354ff9f021e8_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/vn/fashion/lazada-fashion",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/4a476eeb-a57b-4735-bd0f-354ff9f021e8_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/66894478-8b99-4233-8924-281e0dd35c3d_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "gm",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/3ee7aa6b-7909-4465-af66-8aa0463768f1_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?pha=true&hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/vn/nha-cua-doi-song-o-to-xe-may/Lazhomey_MCP",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/3ee7aa6b-7909-4465-af66-8aa0463768f1_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/270935af-9901-4155-bede-9221508d73bb_VN-1976-688.jpg"
+                  },
+                  {
+                    "bannerBackgroundColor": "#EFF0F5",
+                    "bannerTitle": "EL",
+                    "bannerImg_vi": "https://img.lazcdn.com/us/domino/83bb341b-8a5c-49bb-8178-8417994ff36b_VN-1976-688.jpg",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/vn/dien-tu-dien-gia-dung/Tech-Fanatic",
+                    "bannerImg": "https://img.lazcdn.com/us/domino/83bb341b-8a5c-49bb-8178-8417994ff36b_VN-1976-688.jpg",
+                    "bannerImg_en": "https://img.lazcdn.com/us/domino/f91caa16-e4c8-488c-93af-0cf0619e6f62_VN-1976-688.jpg"
+                  }
+                ],
+                "configPrimaryKey": 81845
+              },
+              "datas": []
+            }
+          },
+          {
+            "id": 1791170522703,
+            "moduleId": "pcChannelsV2",
+            "fields": {
+              "settings": {
+                "data": [
+                  {
+                    "channelDesc1_en": "100% Authentic Brands",
+                    "channelUrl": "https://pages.lazada.vn/wow/i/vn/LandingPage/lazmall?spm=a2o4n.home.feature_nav.1.19053bdc548qVX&scm=1003.4.icms-zebra-5000379-2586391.OTHER_6502136031_7683206",
+                    "channelName_en": "LazMall",
+                    "channelLogoImg": "https://img.lazcdn.com/us/domino/d1f1395d-6814-46cb-bbae-cecb69726453_VN-276-48.png",
+                    "channelName_vi": "LazMall",
+                    "channelImg": "https://img.lazcdn.com/us/domino/901aecdc-e8dc-4bf2-9464-476f799a8200_VN-276-260.png",
+                    "channelDesc1": "100% Hàng Chính Hãng",
+                    "channelName": "LazMall",
+                    "channelDesc1_vi": "100% Hàng Chính Hãng",
+                    "channelColor": "#CE0909"
+                  },
+                  {
+                    "channelDesc1_en": "Explore Brands on Lazada",
+                    "channelName_en": "Explore Brands on Lazada",
+                    "channelLogoImg": "https://img.lazcdn.com/us/domino/7df820bb-6bed-4849-9181-68e8abb0878b_VN-276-48.png",
+                    "channelUrl": "https://brandwiki.lazada.vn/",
+                    "channelName_vi": "Khám phá Thương hiệu trên Lazada",
+                    "channelImg": "https://img.lazcdn.com/us/domino/f57b2977-6061-4506-9034-59bc4232ca46_VN-276-260.png",
+                    "channelDesc1": "Khám phá Thương hiệu trên Lazada",
+                    "channelName": "Khám phá Thương hiệu trên Lazada",
+                    "channelDesc1_vi": "Khám phá Thương hiệu trên Lazada",
+                    "channelColor": "#F44747"
+                  },
+                  {
+                    "channelDesc1_en": "Discover Your Next Favorite",
+                    "channelName_en": "Discover Your Next Favorite",
+                    "channelLogoImg": "https://img.lazcdn.com/us/domino/520ff9c4-c756-4686-8c45-d9f9fb11c160_VN-276-48.png",
+                    "channelUrl": "https://mediahub.lazada.vn/",
+                    "channelName_vi": "Tìm món đồ yêu thích mới",
+                    "channelImg": "https://img.lazcdn.com/us/domino/c67bbeac-89fd-440b-a451-7ef0d861905c_VN-276-260.png",
+                    "channelName": "Tìm món đồ yêu thích mới",
+                    "channelDesc1": "Tìm món đồ yêu thích mới",
+                    "channelDesc1_vi": "Tìm món đồ yêu thích mới",
+                    "channelColor": "#F41C5F"
+                  }
+                ],
+                "configPrimaryKey": 66814
+              },
+              "datas": []
+            }
+          },
+          {
+            "id": 1791170522703,
+            "moduleId": "countdownPCV2",
+            "fields": {
+              "settings": {
+                "data": {
+                  "bannerImgDesktop": "https://img.lazcdn.com/us/domino/e57247f2-94fa-49a8-8f2c-21993c4dc3c4_VN-1188-140.gif",
+                  "bannerImgDesktop_vi": "https://img.lazcdn.com/us/domino/e57247f2-94fa-49a8-8f2c-21993c4dc3c4_VN-1188-140.gif",
+                  "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&at_iframe=1&lzd_navbar_hidden=true&pha=true&prefetch_replace=1&wh_pid=/lazada/megascenario/vn/sale-10-10-2026/lich-sale-giu-chuoi",
+                  "bannerImgDesktop_en": "https://img.lazcdn.com/us/domino/794268dd-df1c-493e-9f0d-7a933b56e0a9_VN-1188-140.gif"
+                },
+                "configPrimaryKey": 81774
+              },
+              "datas": []
+            }
+          },
+          {
+            "id": 1791170522768,
+            "moduleId": "flashSalePC",
+            "fields": {
+              "settings": {
+                "configPrimaryKey": 27124
+              },
+              "datas": [
+                {
+                  "__startDate": "2026-10-05T00:59:59.000+08:00",
+                  "__expiredDate": "2026-10-12T00:59:59.000+08:00",
+                  "scm": "1007.17760.398138.0",
+                  "isShowSoldCnt": "true",
+                  "items": [
+                    {
+                      "itemSoldRatio": 0.15000000596046448,
+                      "trackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A217728%3Bitem_id%3A2756708%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A217728%3Bmt%3Ahot%3Bpromo_price%3A217728%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A60%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A261274%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581",
+                      "isCurrencyLeft": 0,
+                      "itemTitle": "[Delivery Only Within 15Km] Box of Probi Low-Sugar Drinking Yogurt 130ml Bottle -24 Bottles/Yogurt Box",
+                      "itemSoldCnt": 60,
+                      "clickTrackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A217728%3Bitem_id%3A2756708%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A217728%3Bmt%3Ahot%3Bpromo_price%3A217728%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A60%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A261274%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581",
+                      "almostSoldOut": 0,
+                      "itemDiscount": "17%",
+                      "itemCurrentStock": 340,
+                      "itemId": 2756708,
+                      "itemImg": "https://vn-live-01.slatic.net/p/cf60890e4305b2e0e0343ce7f2bd7594.jpg",
+                      "__expiredDate": "2026-10-12T00:59:59.000+08:00",
+                      "itemHaveStock": 1,
+                      "itemDiscountPrice": "217.728",
+                      "currency": "₫",
+                      "itemPrice": "261.274",
+                      "scm": "1007.17760.398138.0",
+                      "__startDate": "2026-10-05T00:59:59.000+08:00",
+                      "itemUrl": "//www.lazada.vn/products/pdp-i2756708-s3347924.html?&scm=1007.17760.398138.0&pvid=0246000f-ccea-4a23-a48a-93b4450aab5d&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.0%3Bfs_item_discount_price%3A217728%3Bitem_id%3A2756708%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A217728%3Bmt%3Ahot%3Bpromo_price%3A217728%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A60%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A261274%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581&scm=1007.17760.398138.0"
+                    },
+                    {
+                      "itemSoldRatio": 0.10000000149011612,
+                      "trackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A275900%3Bitem_id%3A205300436%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A275900%3Bmt%3Ahot%3Bpromo_price%3A275900%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A20%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A310000%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A11%25%3Bcampaign_id%3A397581",
+                      "isCurrencyLeft": 0,
+                      "itemTitle": "Whiskas Adult Cat Food with Sea Fish Flavor - 3kg - Complete & Balanced Nutrition for Cats 1 Year Old and up",
+                      "itemSoldCnt": 20,
+                      "clickTrackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A275900%3Bitem_id%3A205300436%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A275900%3Bmt%3Ahot%3Bpromo_price%3A275900%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A20%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A310000%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A11%25%3Bcampaign_id%3A397581",
+                      "almostSoldOut": 0,
+                      "itemDiscount": "11%",
+                      "itemCurrentStock": 180,
+                      "itemId": 205300436,
+                      "itemImg": "https://vn-live-01.slatic.net/p/56be495f11ba8f2fdc383c2628ebc7d3.jpg",
+                      "__expiredDate": "2026-10-12T00:59:59.000+08:00",
+                      "itemHaveStock": 1,
+                      "itemDiscountPrice": "275.900",
+                      "currency": "₫",
+                      "itemPrice": "310.000",
+                      "scm": "1007.17760.398138.0",
+                      "__startDate": "2026-10-05T00:59:59.000+08:00",
+                      "itemUrl": "//www.lazada.vn/products/pdp-i205300436-s255637927.html?&scm=1007.17760.398138.0&pvid=0246000f-ccea-4a23-a48a-93b4450aab5d&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.0%3Bfs_item_discount_price%3A275900%3Bitem_id%3A205300436%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A275900%3Bmt%3Ahot%3Bpromo_price%3A275900%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A20%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A310000%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A11%25%3Bcampaign_id%3A397581&scm=1007.17760.398138.0"
+                    },
+                    {
+                      "itemSoldRatio": 0.017000000923871994,
+                      "trackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A477576%3Bitem_id%3A206184112%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A477576%3Bmt%3Ahot%3Bpromo_price%3A477576%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A17%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A573091%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581",
+                      "isCurrencyLeft": 0,
+                      "itemTitle": "Thùng 12 hộp Sữa tươi tiệt trùng Vinamilk 100% ít đường Hộp giấy 1L",
+                      "itemSoldCnt": 17,
+                      "clickTrackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A477576%3Bitem_id%3A206184112%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A477576%3Bmt%3Ahot%3Bpromo_price%3A477576%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A17%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A573091%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581",
+                      "almostSoldOut": 0,
+                      "itemDiscount": "17%",
+                      "itemCurrentStock": 983,
+                      "itemId": 206184112,
+                      "itemImg": "https://vn-live-01.slatic.net/p/1cdec49e72444af82d80464db09af5e1.jpg",
+                      "__expiredDate": "2026-10-12T00:59:59.000+08:00",
+                      "itemHaveStock": 1,
+                      "itemDiscountPrice": "477.576",
+                      "currency": "₫",
+                      "itemPrice": "573.091",
+                      "scm": "1007.17760.398138.0",
+                      "__startDate": "2026-10-05T00:59:59.000+08:00",
+                      "itemUrl": "//www.lazada.vn/products/pdp-i206184112-s256573648.html?&scm=1007.17760.398138.0&pvid=0246000f-ccea-4a23-a48a-93b4450aab5d&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.0%3Bfs_item_discount_price%3A477576%3Bitem_id%3A206184112%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A477576%3Bmt%3Ahot%3Bpromo_price%3A477576%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A17%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A573091%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581&scm=1007.17760.398138.0"
+                    },
+                    {
+                      "itemSoldRatio": 0.017999999225139618,
+                      "trackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A258336%3Bitem_id%3A225075863%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A258336%3Bmt%3Ahot%3Bpromo_price%3A258336%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A18%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A357696%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A28%25%3Bcampaign_id%3A397581",
+                      "isCurrencyLeft": 0,
+                      "itemTitle": "[Voucher 26%] Box of 30 Packs/Set of 5 Packs of Vifon Multi-Crab Cakes 60g",
+                      "itemSoldCnt": 18,
+                      "clickTrackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A258336%3Bitem_id%3A225075863%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A258336%3Bmt%3Ahot%3Bpromo_price%3A258336%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A18%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A357696%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A28%25%3Bcampaign_id%3A397581",
+                      "almostSoldOut": 0,
+                      "itemDiscount": "28%",
+                      "itemCurrentStock": 982,
+                      "itemId": 225075863,
+                      "itemImg": "https://vn-live-01.slatic.net/p/c6f92b1e17966284883165bc2e8d0d13.png",
+                      "__expiredDate": "2026-10-12T00:59:59.000+08:00",
+                      "itemHaveStock": 1,
+                      "itemDiscountPrice": "258.336",
+                      "currency": "₫",
+                      "itemPrice": "357.696",
+                      "scm": "1007.17760.398138.0",
+                      "__startDate": "2026-10-05T00:59:59.000+08:00",
+                      "itemUrl": "//www.lazada.vn/products/pdp-i225075863-s284016342.html?&scm=1007.17760.398138.0&pvid=0246000f-ccea-4a23-a48a-93b4450aab5d&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.0%3Bfs_item_discount_price%3A258336%3Bitem_id%3A225075863%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A258336%3Bmt%3Ahot%3Bpromo_price%3A258336%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A18%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A357696%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A28%25%3Bcampaign_id%3A397581&scm=1007.17760.398138.0"
+                    },
+                    {
+                      "itemSoldRatio": 0.09727626293897629,
+                      "trackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A178848%3Bitem_id%3A211589279%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A178848%3Bmt%3Ahot%3Bpromo_price%3A178848%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A25%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A214618%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581",
+                      "isCurrencyLeft": 0,
+                      "itemTitle": "[Delivery Only Within 10Km] Box of 24 Boxes of Vinamilk Love Yogurt Green Farm Low Sugar Yogurt Box 100g",
+                      "itemSoldCnt": 25,
+                      "clickTrackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A178848%3Bitem_id%3A211589279%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A178848%3Bmt%3Ahot%3Bpromo_price%3A178848%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A25%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A214618%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581",
+                      "almostSoldOut": 0,
+                      "itemDiscount": "17%",
+                      "itemCurrentStock": 232,
+                      "itemId": 211589279,
+                      "itemImg": "https://vn-live-01.slatic.net/p/7196b1816847f874da4cd2ebf24536a4.jpg",
+                      "__expiredDate": "2026-10-12T00:59:59.000+08:00",
+                      "itemHaveStock": 1,
+                      "itemDiscountPrice": "178.848",
+                      "currency": "₫",
+                      "itemPrice": "214.618",
+                      "scm": "1007.17760.398138.0",
+                      "__startDate": "2026-10-05T00:59:59.000+08:00",
+                      "itemUrl": "//www.lazada.vn/products/pdp-i211589279-s264850571.html?&scm=1007.17760.398138.0&pvid=0246000f-ccea-4a23-a48a-93b4450aab5d&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.0%3Bfs_item_discount_price%3A178848%3Bitem_id%3A211589279%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A178848%3Bmt%3Ahot%3Bpromo_price%3A178848%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A25%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A214618%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581&scm=1007.17760.398138.0"
+                    },
+                    {
+                      "itemSoldRatio": 0.7333333492279053,
+                      "trackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A219000%3Bitem_id%3A338622166%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A219000%3Bmt%3Ahot%3Bpromo_price%3A219000%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A44%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A409000%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A46%25%3Bcampaign_id%3A397581",
+                      "isCurrencyLeft": 0,
+                      "itemTitle": "Chảo đáy từ vân đá chống dính GREEN COOK 24 -26 - 28 cm tay cầm chịu nhiệt - Hàng chính hãng greencook",
+                      "itemSoldCnt": 44,
+                      "clickTrackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A219000%3Bitem_id%3A338622166%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A219000%3Bmt%3Ahot%3Bpromo_price%3A219000%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A44%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A409000%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A46%25%3Bcampaign_id%3A397581",
+                      "almostSoldOut": 0,
+                      "itemDiscount": "46%",
+                      "itemCurrentStock": 16,
+                      "itemId": 338622166,
+                      "itemImg": "https://vn-live-01.slatic.net/p/deed1d4eabd0b52f207bf45d52da6cdc.png",
+                      "__expiredDate": "2026-10-12T00:59:59.000+08:00",
+                      "itemHaveStock": 1,
+                      "itemDiscountPrice": "219.000",
+                      "currency": "₫",
+                      "itemPrice": "409.000",
+                      "scm": "1007.17760.398138.0",
+                      "__startDate": "2026-10-05T00:59:59.000+08:00",
+                      "itemUrl": "//www.lazada.vn/products/pdp-i338622166-s544734454.html?&scm=1007.17760.398138.0&pvid=0246000f-ccea-4a23-a48a-93b4450aab5d&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.0%3Bfs_item_discount_price%3A219000%3Bitem_id%3A338622166%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A219000%3Bmt%3Ahot%3Bpromo_price%3A219000%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A44%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A409000%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A46%25%3Bcampaign_id%3A397581&scm=1007.17760.398138.0"
+                    },
+                    {
+                      "itemSoldRatio": 0.16237112879753113,
+                      "trackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A316224%3Bitem_id%3A304140076%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A316224%3Bmt%3Ahot%3Bpromo_price%3A316224%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A63%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A379469%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581",
+                      "isCurrencyLeft": 0,
+                      "itemTitle": "Box of 48 Boxes of Vinamilk Green Farm Uht Fresh Milk with Very Low Sugar Content 110ml",
+                      "itemSoldCnt": 63,
+                      "clickTrackInfo": "rs%3A0.0%3Bfs_item_discount_price%3A316224%3Bitem_id%3A304140076%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A316224%3Bmt%3Ahot%3Bpromo_price%3A316224%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A63%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A379469%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581",
+                      "almostSoldOut": 0,
+                      "itemDiscount": "17%",
+                      "itemCurrentStock": 325,
+                      "itemId": 304140076,
+                      "itemImg": "https://vn-live-01.slatic.net/p/80d84f821c2a200fa03c91323e1b3be6.jpg",
+                      "__expiredDate": "2026-10-12T00:59:59.000+08:00",
+                      "itemHaveStock": 1,
+                      "itemDiscountPrice": "316.224",
+                      "currency": "₫",
+                      "itemPrice": "379.469",
+                      "scm": "1007.17760.398138.0",
+                      "__startDate": "2026-10-05T00:59:59.000+08:00",
+                      "itemUrl": "//www.lazada.vn/products/pdp-i304140076-s486304118.html?&scm=1007.17760.398138.0&pvid=0246000f-ccea-4a23-a48a-93b4450aab5d&search=flashsale?search=1&mp=1&c=fs&clickTrackInfo=rs%3A0.0%3Bfs_item_discount_price%3A316224%3Bitem_id%3A304140076%3Bpctr%3A0.0%3Bcalib_pctr%3A0.0%3Bvoucher_price%3A316224%3Bmt%3Ahot%3Bpromo_price%3A316224%3Bfs_utdid%3A-1%3Bfs_item_sold_cnt%3A63%3Bcontroller_tags%3AP1%3Babid%3A398138%3Bfs_item_price%3A379469%3Bpvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Bfs_min_price_l30d%3A0%3Bdata_type%3Aflashsale%3Bis_nep_hot%3A0%3Bfs_pvid%3A0246000f-ccea-4a23-a48a-93b4450aab5d%3Btime%3A1791170522%3Bfs_biz_type%3Ansubsidy%3Bscm%3A1007.17760.398138.%3Bchannel_id%3A0000%3Bfs_item_discount%3A17%25%3Bcampaign_id%3A397581&scm=1007.17760.398138.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": 1791170522721,
+            "moduleId": "officialStorePC",
+            "fields": {
+              "settings": {
+                "configPrimaryKey": 27125
+              },
+              "datas": [
+                {
+                  "entityType": "shop",
+                  "id": "311809",
+                  "shopId": "311809",
+                  "algArgs": "",
+                  "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$311809__itemId$$257661723__matchType$$hotitem__matchScore$$0.0",
+                  "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$311809__itemId$$257661723__matchType$$hotitem__matchScore$$0.0++user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$311809__itemId$$258025591__matchType$$hotitem__matchScore$$0.0",
+                  "shopMainImg": "https://vn-test-11.slatic.net/shop/b8971e60c559d2dc6a934bdf1a386a38.jpeg",
+                  "shopName": "Thien Huong Food - Since 1964",
+                  "shopSlogan": "Thien Huong Food - Since 1964",
+                  "itemId": 257661723,
+                  "itemTitle": "Có Xúc Xích Trong Ly - Thùng 24 ly mì Yes Mom Tôm Chua Cay 79.2gr/ ly",
+                  "shopImg": "https://vn-live-01.slatic.net/p/c82fe0e3711d29cf9dc1f959afc1be20.png",
+                  "brandLogo": "https://vn-test-11.slatic.net/shop/60a3b4d21ed9152a0f910f9ad03750b9.jpeg",
+                  "shopUrl": "//www.lazada.vn/shop/thien-huong-food-since-1964?up_id=257661723,258025591&from=hp_officialstore&item_id=257661723,258025591&version=v2",
+                  "_self_scm": "1007.17384.117575.100200300000000",
+                  "scm": "1007.17384.117575.100200300000000",
+                  "items": [
+                    {
+                      "itemId": "257661723",
+                      "itemImg": "https://vn-live-01.slatic.net/p/c82fe0e3711d29cf9dc1f959afc1be20.png",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$311809__itemId$$257661723__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$311809__itemId$$257661723__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/thien-huong-food-since-1964?up_id=257661723&from=hp_officialstore&item_id=257661723&version=v2&tab=allproducts"
+                    },
+                    {
+                      "itemId": "258025591",
+                      "itemImg": "https://vn-live-01.slatic.net/p/8000627270596631b9e2a640b0df6e30.png",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$311809__itemId$$258025591__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$311809__itemId$$258025591__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/thien-huong-food-since-1964?up_id=258025591&from=hp_officialstore&item_id=258025591&version=v2&tab=allproducts"
+                    }
+                  ]
+                },
+                {
+                  "entityType": "shop",
+                  "id": "320109",
+                  "shopId": "320109",
+                  "algArgs": "",
+                  "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$320109__itemId$$266952059__matchType$$hotitem__matchScore$$0.0",
+                  "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$320109__itemId$$266952059__matchType$$hotitem__matchScore$$0.0++user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$320109__itemId$$268282304__matchType$$hotitem__matchScore$$0.0",
+                  "shopMainImg": "https://vn-test-11.slatic.net/shop/e59cc4cc1be96fff09e85e686e2c5d58.jpeg",
+                  "shopName": "DosReaL",
+                  "shopSlogan": "DosReaL",
+                  "itemId": 266952059,
+                  "itemTitle": "Laochra Đế Phẳng Giày Nữ Dệt Giày Phẳng Giày Sneakers Nữ Múa Ba Lê Bãi Đa EVA Cho Nữ Giày Nữ Size Lớn",
+                  "shopImg": "https://my-live-01.slatic.net/p/37659afd8b724a70462ae8b707463045.jpg",
+                  "brandLogo": "https://vn-test-11.slatic.net/shop/c1c137616ef974aa66b313ade0be89ce.jpeg",
+                  "shopUrl": "//www.lazada.vn/shop/dosreal?up_id=266952059,268282304&from=hp_officialstore&item_id=266952059,268282304&version=v2",
+                  "_self_scm": "1007.17384.117575.100200300000000",
+                  "scm": "1007.17384.117575.100200300000000",
+                  "items": [
+                    {
+                      "itemId": "266952059",
+                      "itemImg": "https://my-live-01.slatic.net/p/37659afd8b724a70462ae8b707463045.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$320109__itemId$$266952059__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$320109__itemId$$266952059__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/dosreal?up_id=266952059&from=hp_officialstore&item_id=266952059&version=v2&tab=allproducts"
+                    },
+                    {
+                      "itemId": "268282304",
+                      "itemImg": "https://my-live-01.slatic.net/p/c7a64f8a019a787c61d3de5a7cb84a8e.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$320109__itemId$$268282304__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$320109__itemId$$268282304__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/dosreal?up_id=268282304&from=hp_officialstore&item_id=268282304&version=v2&tab=allproducts"
+                    }
+                  ]
+                },
+                {
+                  "entityType": "shop",
+                  "id": "317731",
+                  "shopId": "317731",
+                  "algArgs": "",
+                  "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$317731__itemId$$356966268__matchType$$hotitem__matchScore$$0.0",
+                  "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$317731__itemId$$356966268__matchType$$hotitem__matchScore$$0.0++user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$317731__itemId$$356970860__matchType$$hotitem__matchScore$$0.0",
+                  "shopMainImg": "https://vn-test-11.slatic.net/shop/4b072c1c7b985fb36409a2ab5c0f9ed5.jpeg",
+                  "shopName": "Kymdan",
+                  "shopSlogan": "Kymdan",
+                  "itemId": 356966268,
+                  "itemTitle": "Tấm an toàn vệ sinh nệm Kymdan 80 x 200 cm",
+                  "shopImg": "https://vn-live-01.slatic.net/p/8f3f64c8b5c87a6268d4295615527cc0.jpg",
+                  "brandLogo": "https://vn-test-11.slatic.net/shop/1d4c945c96ea505a7b30834aeeb41e00.png",
+                  "shopUrl": "//www.lazada.vn/shop/kymdan?up_id=356966268,356970860&from=hp_officialstore&item_id=356966268,356970860&version=v2",
+                  "_self_scm": "1007.17384.117575.100200300000000",
+                  "scm": "1007.17384.117575.100200300000000",
+                  "items": [
+                    {
+                      "itemId": "356966268",
+                      "itemImg": "https://vn-live-01.slatic.net/p/8f3f64c8b5c87a6268d4295615527cc0.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$317731__itemId$$356966268__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$317731__itemId$$356966268__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/kymdan?up_id=356966268&from=hp_officialstore&item_id=356966268&version=v2&tab=allproducts"
+                    },
+                    {
+                      "itemId": "356970860",
+                      "itemImg": "https://vn-live-01.slatic.net/p/8f3f64c8b5c87a6268d4295615527cc0.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$317731__itemId$$356970860__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$317731__itemId$$356970860__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/kymdan?up_id=356970860&from=hp_officialstore&item_id=356970860&version=v2&tab=allproducts"
+                    }
+                  ]
+                },
+                {
+                  "entityType": "shop",
+                  "id": "319237",
+                  "shopId": "319237",
+                  "algArgs": "",
+                  "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$319237__itemId$$419062812__matchType$$hotitem__matchScore$$0.0",
+                  "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$319237__itemId$$419062812__matchType$$hotitem__matchScore$$0.0++user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$319237__itemId$$419098140__matchType$$hotitem__matchScore$$0.0",
+                  "shopMainImg": "https://vn-test-11.slatic.net/shop/86f877e3012261aea9fb0e07d39cf466.png",
+                  "shopName": "DK Harvest",
+                  "shopSlogan": "Hạt Dinh Dưỡng",
+                  "itemId": 419062812,
+                  "itemTitle": "Hạt Chia Đen DK Harvest - Túi 100g - Hạt chia nhập khẩu chính hãng, giảm cân, eatclean, hạt ngũ cốc dinh dưỡng",
+                  "shopImg": "https://vn-live-01.slatic.net/p/844269939dd64cb972cfb5f55b52c3f5.png",
+                  "brandLogo": "https://vn-test-11.slatic.net/shop/5e04cac41e462681117f4c12b2395580.png",
+                  "shopUrl": "//www.lazada.vn/shop/dk-harvest?up_id=419062812,419098140&from=hp_officialstore&item_id=419062812,419098140&version=v2",
+                  "_self_scm": "1007.17384.117575.100200300000000",
+                  "scm": "1007.17384.117575.100200300000000",
+                  "items": [
+                    {
+                      "itemId": "419062812",
+                      "itemImg": "https://vn-live-01.slatic.net/p/844269939dd64cb972cfb5f55b52c3f5.png",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$319237__itemId$$419062812__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$319237__itemId$$419062812__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/dk-harvest?up_id=419062812&from=hp_officialstore&item_id=419062812&version=v2&tab=allproducts"
+                    },
+                    {
+                      "itemId": "419098140",
+                      "itemImg": "https://vn-live-01.slatic.net/p/5c75321583acb7e650e164ebf77a22eb.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$319237__itemId$$419098140__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$319237__itemId$$419098140__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/dk-harvest?up_id=419098140&from=hp_officialstore&item_id=419098140&version=v2&tab=allproducts"
+                    }
+                  ]
+                },
+                {
+                  "entityType": "shop",
+                  "id": "313699",
+                  "shopId": "313699",
+                  "algArgs": "",
+                  "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$313699__itemId$$524400246__matchType$$hotitem__matchScore$$0.0",
+                  "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$313699__itemId$$524400246__matchType$$hotitem__matchScore$$0.0++user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$313699__itemId$$524904486__matchType$$hotitem__matchScore$$0.0",
+                  "shopMainImg": "https://vn-test-11.slatic.net/shop/3fa09c6896414637843b7a973c2c206d.jpeg",
+                  "shopName": "Mama's Choice",
+                  "shopSlogan": "CHỈ MẸ HIỂU BÉ NHẤT",
+                  "itemId": 524400246,
+                  "itemTitle": "Dây Hút Sữa Medela Thương Hiệu Maymom, Không Chứa BPA, An Toàn 100%, Vệ Sinh Dễ Dàng (1 Dây)",
+                  "shopImg": "https://vn-live-01.slatic.net/p/3d14f8ce1b88b76bd3e6eb0a74e277c8.jpg",
+                  "brandLogo": "https://vn-test-11.slatic.net/shop/cb73b377f43fb86fdc05beca0b4bb16e.png",
+                  "shopUrl": "//www.lazada.vn/shop/mamas-choice?up_id=524400246,524904486&from=hp_officialstore&item_id=524400246,524904486&version=v2",
+                  "_self_scm": "1007.17384.117575.100200300000000",
+                  "scm": "1007.17384.117575.100200300000000",
+                  "items": [
+                    {
+                      "itemId": "524400246",
+                      "itemImg": "https://vn-live-01.slatic.net/p/3d14f8ce1b88b76bd3e6eb0a74e277c8.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$313699__itemId$$524400246__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$313699__itemId$$524400246__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/mamas-choice?up_id=524400246&from=hp_officialstore&item_id=524400246&version=v2&tab=allproducts"
+                    },
+                    {
+                      "itemId": "524904486",
+                      "itemImg": "https://vn-live-01.slatic.net/p/0ac25f004afd9076fda5d01f9744b0a3.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$313699__itemId$$524904486__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$313699__itemId$$524904486__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/mamas-choice?up_id=524904486&from=hp_officialstore&item_id=524904486&version=v2&tab=allproducts"
+                    }
+                  ]
+                },
+                {
+                  "entityType": "shop",
+                  "id": "1583368",
+                  "shopId": "1583368",
+                  "algArgs": "",
+                  "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1583368__itemId$$794070014__matchType$$hotitem__matchScore$$0.0",
+                  "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1583368__itemId$$794070014__matchType$$hotitem__matchScore$$0.0++user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1583368__itemId$$802048608__matchType$$hotitem__matchScore$$0.0",
+                  "shopMainImg": "https://sg-test-11.slatic.net/other/shop/98741879f0b54380b47a31315522b359.jpg",
+                  "shopName": "KioSport",
+                  "shopSlogan": "KioSport",
+                  "itemId": 794070014,
+                  "itemTitle": "BỘ 3 khăn mặt bộ 3 khăn cao cấp Azuka",
+                  "shopImg": "https://vn-live-01.slatic.net/p/059adba8ccd9bddbdd5f4f52a0a652cd.jpg",
+                  "brandLogo": "https://sg-test-11.slatic.net/other/shop/b1877ff5476c4c0a87a766dfd0c4f1d9.jpg",
+                  "shopUrl": "//www.lazada.vn/shop/kiosport?up_id=794070014,802048608&from=hp_officialstore&item_id=794070014,802048608&version=v2",
+                  "_self_scm": "1007.17384.117575.100200300000000",
+                  "scm": "1007.17384.117575.100200300000000",
+                  "items": [
+                    {
+                      "itemId": "794070014",
+                      "itemImg": "https://vn-live-01.slatic.net/p/059adba8ccd9bddbdd5f4f52a0a652cd.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1583368__itemId$$794070014__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1583368__itemId$$794070014__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/kiosport?up_id=794070014&from=hp_officialstore&item_id=794070014&version=v2&tab=allproducts"
+                    },
+                    {
+                      "itemId": "802048608",
+                      "itemImg": "https://vn-live-01.slatic.net/p/80018a53ee71f2ba22959519e04c3354.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1583368__itemId$$802048608__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1583368__itemId$$802048608__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/kiosport?up_id=802048608&from=hp_officialstore&item_id=802048608&version=v2&tab=allproducts"
+                    }
+                  ]
+                },
+                {
+                  "entityType": "shop",
+                  "id": "1582524",
+                  "shopId": "1582524",
+                  "algArgs": "",
+                  "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1582524__itemId$$809906671__matchType$$hotitem__matchScore$$0.0",
+                  "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1582524__itemId$$809906671__matchType$$hotitem__matchScore$$0.0++user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1582524__itemId$$815444103__matchType$$hotitem__matchScore$$0.0",
+                  "shopMainImg": "https://laz-img-cdn.alicdn.com/tfs/TB1QqerpljTBKNjSZFwXXcG4XXa-600-600.jpg",
+                  "shopName": "XiaoTian Jewelry Store",
+                  "shopSlogan": "XiaoTian Jewelry Store",
+                  "itemId": 809906671,
+                  "itemTitle": "Vòng tay hạt chuyển đa năng mạ vàng 24k cho nữ",
+                  "shopImg": "https://sg-live-01.slatic.net/p/d7f7fc0c5f43abb27710ade529d67728.jpg",
+                  "brandLogo": "https://sg-test-11.slatic.net/other/shop/f2d8ec1ad8224c3f81b51ce8b4417a96.jpg",
+                  "shopUrl": "//www.lazada.vn/shop/xiaotian-jewelry-store?up_id=809906671,815444103&from=hp_officialstore&item_id=809906671,815444103&version=v2",
+                  "_self_scm": "1007.17384.117575.100200300000000",
+                  "scm": "1007.17384.117575.100200300000000",
+                  "items": [
+                    {
+                      "itemId": "809906671",
+                      "itemImg": "https://sg-live-01.slatic.net/p/d7f7fc0c5f43abb27710ade529d67728.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1582524__itemId$$809906671__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1582524__itemId$$809906671__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/xiaotian-jewelry-store?up_id=809906671&from=hp_officialstore&item_id=809906671&version=v2&tab=allproducts"
+                    },
+                    {
+                      "itemId": "815444103",
+                      "itemImg": "https://sg-live-01.slatic.net/p/2867a79fef5938b798f4bba180f6af48.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1582524__itemId$$815444103__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1582524__itemId$$815444103__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/xiaotian-jewelry-store?up_id=815444103&from=hp_officialstore&item_id=815444103&version=v2&tab=allproducts"
+                    }
+                  ]
+                },
+                {
+                  "entityType": "shop",
+                  "id": "1600050",
+                  "shopId": "1600050",
+                  "algArgs": "",
+                  "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1600050__itemId$$813426341__matchType$$hotitem__matchScore$$0.0",
+                  "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1600050__itemId$$813426341__matchType$$hotitem__matchScore$$0.0++user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1600050__itemId$$834470064__matchType$$hotitem__matchScore$$0.0",
+                  "shopMainImg": "https://vn-test-11.slatic.net/shop/af48f54484c5bfa00189c4ab2ac20ad7.jpeg",
+                  "shopName": "EASY DREAM OFFICIAL",
+                  "shopSlogan": "EASY DREAM ",
+                  "itemId": 813426341,
+                  "itemTitle": "Ga gối chăn cưới  cotton cao cấp ren thêu GA + 2 VỎ GỐI NẰM +1 VỎ GỐI ÔM +1 VỎ CHĂN HÈ",
+                  "shopImg": "https://vn-live-01.slatic.net/p/00ec4e136b037535bb9c626bbc503296.jpg",
+                  "brandLogo": "https://vn-test-11.slatic.net/shop/af48f54484c5bfa00189c4ab2ac20ad7.jpeg",
+                  "shopUrl": "//www.lazada.vn/shop/easy-dream-official?up_id=813426341,834470064&from=hp_officialstore&item_id=813426341,834470064&version=v2",
+                  "_self_scm": "1007.17384.117575.100200300000000",
+                  "scm": "1007.17384.117575.100200300000000",
+                  "items": [
+                    {
+                      "itemId": "813426341",
+                      "itemImg": "https://vn-live-01.slatic.net/p/00ec4e136b037535bb9c626bbc503296.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1600050__itemId$$813426341__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1600050__itemId$$813426341__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/easy-dream-official?up_id=813426341&from=hp_officialstore&item_id=813426341&version=v2&tab=allproducts"
+                    },
+                    {
+                      "itemId": "834470064",
+                      "itemImg": "https://vn-live-01.slatic.net/p/14c3c3764628b5ef466ab3532c5d8d03.jpg",
+                      "trackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1600050__itemId$$834470064__matchType$$hotitem__matchScore$$0.0",
+                      "clickTrackInfo": "user_id$$0__utdid$$__anonymous_id$$__pvid$$40aff68f-12aa-4877-a669-c2d0d3e18d24__region_id$$vn__language$$vi__platform$$pc__scm$$1007.17384.117575.100200300000000__num$$12__auction_num$$4__s$$0__size$$10__shopId$$1600050__itemId$$834470064__matchType$$hotitem__matchScore$$0.0",
+                      "itemUrl": "//www.lazada.vn/shop/easy-dream-official?up_id=834470064&from=hp_officialstore&item_id=834470064&version=v2&tab=allproducts"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "id": 1791170522727,
+            "moduleId": "categoriesPC",
+            "fields": {
+              "settings": {
+                "configPrimaryKey": 27126
+              },
+              "datas": [
+                {
+                  "id": "0",
+                  "categoryId": "11412",
+                  "leafCategoryName": "#Tai nghe không dây",
+                  "categoryName": "Tai nghe không dây",
+                  "categoryImg": "https://filebroker-cdn.lazada.vn/kf/S3717d6a115844592a8ef88627413903b2.jpg",
+                  "categoryUrl": "//www.lazada.vn/shop-wireless-earbuds?up_id=13458321120&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B23%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09972805___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13458321120___scm--1007.17253.333258.0___objType--category___categoryId--11412___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13458321120&version=v2&q=tai nghe không dây&params=%7B%22catIdLv1%22%3A%2210100387%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Tai%2Bnghe%2Bkh%25C3%25B4ng%2Bd%25C3%25A2y%22%2C%22categoryId%22%3A%2211412%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+23%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09972805___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13458321120___scm--1007.17253.333258.0___objType--category___categoryId--11412___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+23%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09972805___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13458321120___scm--1007.17253.333258.0___objType--category___categoryId--11412___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "1",
+                  "categoryId": "10100415",
+                  "leafCategoryName": "#Đồng hồ thông minh & Thiết bị theo dõi sức khỏe",
+                  "categoryName": "Đồng hồ thông minh & Thiết bị theo dõi sức khỏe",
+                  "categoryImg": "https://vn-live-01.slatic.net/p/9c89e4dfe63a0306581b6ce748fe56c4.jpg",
+                  "categoryUrl": "//www.lazada.vn/shop-smartwatch-&-fitness-trackers?up_id=2155980434&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B30%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09933414___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--2155980434___scm--1007.17253.333258.0___objType--category___categoryId--10100415___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=2155980434&version=v2&q=đồng hồ thông minh  thiết bị theo dõi sức khỏe&params=%7B%22catIdLv1%22%3A%2210100412%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22%25C4%2590%25E1%25BB%2593ng%2Bh%25E1%25BB%2593%2Bth%25C3%25B4ng%2Bminh%2B%2BThi%25E1%25BA%25BFt%2Bb%25E1%25BB%258B%2Btheo%2Bd%25C3%25B5i%2Bs%25E1%25BB%25A9c%2Bkh%25E1%25BB%258Fe%22%2C%22categoryId%22%3A%2210100415%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+30%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09933414___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--2155980434___scm--1007.17253.333258.0___objType--category___categoryId--10100415___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+30%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09933414___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--2155980434___scm--1007.17253.333258.0___objType--category___categoryId--10100415___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "2",
+                  "categoryId": "11029",
+                  "leafCategoryName": "#Cáp & Dock sạc",
+                  "categoryName": "Cáp & Dock sạc",
+                  "categoryImg": "https://ae01.alicdn.com/kf/Sb7a4bff76b604dbfb3df356fc882a911K.jpg",
+                  "categoryUrl": "//www.lazada.vn/cap-dien-thoai?up_id=13459584528&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B30%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.0985183___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13459584528___scm--1007.17253.333258.0___objType--category___categoryId--11029___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13459584528&version=v2&q=cáp  dock sạc&params=%7B%22catIdLv1%22%3A%2242062201%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22C%25C3%25A1p%2B%2BDock%2Bs%25E1%25BA%25A1c%22%2C%22categoryId%22%3A%2211029%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+30%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.0985183___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13459584528___scm--1007.17253.333258.0___objType--category___categoryId--11029___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+30%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.0985183___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13459584528___scm--1007.17253.333258.0___objType--category___categoryId--11029___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "3",
+                  "categoryId": "15212",
+                  "leafCategoryName": "#Camera IP kết nối Internet",
+                  "categoryName": "Camera IP kết nối Internet",
+                  "categoryImg": "https://sg-test-11.slatic.net/p/b7dc473f13523d5293e663349122da35.jpg",
+                  "categoryUrl": "//www.lazada.vn/camera-ip-ket-noi-internet?up_id=3176254065&clickTrackInfo=ctr--0.0___matchType--20___description--2K%252B%2BT%25C3%25ACm%2Bki%25E1%25BA%25BFm___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.096942686___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--3176254065___scm--1007.17253.333258.0___objType--category___categoryId--15212___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=3176254065&version=v2&q=camera ip kết nối internet&params=%7B%22catIdLv1%22%3A%224404%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Camera%2BIP%2Bk%25E1%25BA%25BFt%2Bn%25E1%25BB%2591i%2BInternet%22%2C%22categoryId%22%3A%2215212%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--2K%2B+T%C3%ACm+ki%E1%BA%BFm___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.096942686___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--3176254065___scm--1007.17253.333258.0___objType--category___categoryId--15212___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--2K%2B+T%C3%ACm+ki%E1%BA%BFm___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.096942686___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--3176254065___scm--1007.17253.333258.0___objType--category___categoryId--15212___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "4",
+                  "categoryId": "13113",
+                  "leafCategoryName": "#Đèn trang trí",
+                  "categoryName": "Đèn trang trí",
+                  "categoryImg": "https://sg-test-11.slatic.net/p/ade8736952270a467f6ae96e62222583.jpg",
+                  "categoryUrl": "//www.lazada.vn/den-trang-tri-chuyen-dung?up_id=13415577784&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B40%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09652074___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13415577784___scm--1007.17253.333258.0___objType--category___categoryId--13113___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13415577784&version=v2&q=đèn trang trí&params=%7B%22catIdLv1%22%3A%2210100083%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22%25C4%2590%25C3%25A8n%2Btrang%2Btr%25C3%25AD%22%2C%22categoryId%22%3A%2213113%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+40%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09652074___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13415577784___scm--1007.17253.333258.0___objType--category___categoryId--13113___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+40%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09652074___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13415577784___scm--1007.17253.333258.0___objType--category___categoryId--13113___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "5",
+                  "categoryId": "4523",
+                  "leafCategoryName": "#Ốp lưng & bao da điện thoại",
+                  "categoryName": "Ốp lưng & bao da điện thoại",
+                  "categoryImg": "https://sg-test-11.slatic.net/p/d6922a682536347e6307efe0bedbafb4.jpg",
+                  "categoryUrl": "//www.lazada.vn/op-lung-bao-da-dien-thoai?up_id=3086291794&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B6%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09624878___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--3086291794___scm--1007.17253.333258.0___objType--category___categoryId--4523___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=3086291794&version=v2&q=ốp lưng  bao da điện thoại&params=%7B%22catIdLv1%22%3A%2242062201%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22%25E1%25BB%2590p%2Bl%25C6%25B0ng%2B%2Bbao%2Bda%2B%25C4%2591i%25E1%25BB%2587n%2Btho%25E1%25BA%25A1i%22%2C%22categoryId%22%3A%224523%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+6%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09624878___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--3086291794___scm--1007.17253.333258.0___objType--category___categoryId--4523___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+6%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09624878___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--3086291794___scm--1007.17253.333258.0___objType--category___categoryId--4523___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "6",
+                  "categoryId": "6414",
+                  "leafCategoryName": "#Quần jeans",
+                  "categoryName": "Quần jeans",
+                  "categoryImg": "https://sg-test-11.slatic.net/p/7fbca0e92b7258d67f986864b05e4317.jpg",
+                  "categoryUrl": "//www.lazada.vn/shop-men-jeans?up_id=13471588348&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B10%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.095610976___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13471588348___scm--1007.17253.333258.0___objType--category___categoryId--6414___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13471588348&version=v2&q=quần jeans&params=%7B%22catIdLv1%22%3A%2262541004%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Qu%25E1%25BA%25A7n%2Bjeans%22%2C%22categoryId%22%3A%226414%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+10%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.095610976___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13471588348___scm--1007.17253.333258.0___objType--category___categoryId--6414___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+10%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.095610976___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13471588348___scm--1007.17253.333258.0___objType--category___categoryId--6414___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "7",
+                  "categoryId": "6424",
+                  "leafCategoryName": "#Áo hoodies & sweatshirts nam",
+                  "categoryName": "Áo hoodies & sweatshirts nam",
+                  "categoryImg": "https://sg-test-11.slatic.net/p/b709a5f51cfded627d8a7fa022c04ae2.png",
+                  "categoryUrl": "//www.lazada.vn/ao-hoodie-cua-nam?up_id=13466566736&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B50%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09555488___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13466566736___scm--1007.17253.333258.0___objType--category___categoryId--6424___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13466566736&version=v2&q=áo hoodies  sweatshirts nam&params=%7B%22catIdLv1%22%3A%2262541004%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22%25C3%2581o%2Bhoodies%2B%2Bsweatshirts%2Bnam%22%2C%22categoryId%22%3A%226424%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+50%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09555488___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13466566736___scm--1007.17253.333258.0___objType--category___categoryId--6424___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+50%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09555488___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13466566736___scm--1007.17253.333258.0___objType--category___categoryId--6424___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "8",
+                  "categoryId": "2283",
+                  "leafCategoryName": "#Dưỡng da & Serum",
+                  "categoryName": "Dưỡng da & Serum",
+                  "categoryImg": "https://sg-test-11.slatic.net/p/7ec7549bb494e71986ff39898545b4f9.jpg",
+                  "categoryUrl": "//www.lazada.vn/duong-da-va-serum?up_id=2493341660&clickTrackInfo=ctr--0.0___matchType--20___description--4K%252B%2BT%25C3%25ACm%2Bki%25E1%25BA%25BFm___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09518049___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--2493341660___scm--1007.17253.333258.0___objType--category___categoryId--2283___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=2493341660&version=v2&q=dưỡng da  serum&params=%7B%22catIdLv1%22%3A%224405%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22D%25C6%25B0%25E1%25BB%25A1ng%2Bda%2B%2BSerum%22%2C%22categoryId%22%3A%222283%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--4K%2B+T%C3%ACm+ki%E1%BA%BFm___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09518049___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--2493341660___scm--1007.17253.333258.0___objType--category___categoryId--2283___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--4K%2B+T%C3%ACm+ki%E1%BA%BFm___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09518049___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--2493341660___scm--1007.17253.333258.0___objType--category___categoryId--2283___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "9",
+                  "categoryId": "12617",
+                  "leafCategoryName": "#Bộ lọc không khí thay thế",
+                  "categoryName": "Bộ lọc không khí thay thế",
+                  "categoryImg": "https://vn-live-01.slatic.net/p/7fd2c0d7b271db9473f87033e8bf293e.jpg",
+                  "categoryUrl": "//www.lazada.vn/phu-kien-linh-kien-may-loc-khi?up_id=2476318062&clickTrackInfo=ctr--0.0___matchType--20___description--200%2BT%25C3%25ACm%2Bki%25E1%25BA%25BFm___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09497439___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--2476318062___scm--1007.17253.333258.0___objType--category___categoryId--12617___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=2476318062&version=v2&q=bộ lọc không khí thay thế&params=%7B%22catIdLv1%22%3A%2242062201%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22B%25E1%25BB%2599%2Bl%25E1%25BB%258Dc%2Bkh%25C3%25B4ng%2Bkh%25C3%25AD%2Bthay%2Bth%25E1%25BA%25BF%22%2C%22categoryId%22%3A%2212617%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--200+T%C3%ACm+ki%E1%BA%BFm___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09497439___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--2476318062___scm--1007.17253.333258.0___objType--category___categoryId--12617___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--200+T%C3%ACm+ki%E1%BA%BFm___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09497439___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--2476318062___scm--1007.17253.333258.0___objType--category___categoryId--12617___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "10",
+                  "categoryId": "12745",
+                  "leafCategoryName": "#Phụ kiện làm thơm phòng",
+                  "categoryName": "Phụ kiện làm thơm phòng",
+                  "categoryImg": "https://filebroker-cdn.lazada.vn/kf/Se5e6b6f8d4a34475b57f25795dec4ef8p.jpg",
+                  "categoryUrl": "//www.lazada.vn/do-dung-lam-thom-phong?up_id=13451680620&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B23%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09496464___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13451680620___scm--1007.17253.333258.0___objType--category___categoryId--12745___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13451680620&version=v2&q=phụ kiện làm thơm phòng&params=%7B%22catIdLv1%22%3A%2210100083%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Ph%25E1%25BB%25A5%2Bki%25E1%25BB%2587n%2Bl%25C3%25A0m%2Bth%25C6%25A1m%2Bph%25C3%25B2ng%22%2C%22categoryId%22%3A%2212745%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+23%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09496464___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13451680620___scm--1007.17253.333258.0___objType--category___categoryId--12745___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+23%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09496464___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13451680620___scm--1007.17253.333258.0___objType--category___categoryId--12745___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "11",
+                  "categoryId": "12909",
+                  "leafCategoryName": "#Mạch điện & Linh kiện",
+                  "categoryName": "Mạch điện & Linh kiện",
+                  "categoryImg": "https://sg-test-11.slatic.net/p/8bb015d100d910e8673cae8c87ffc37f.jpg",
+                  "categoryUrl": "//www.lazada.vn/mach-dien-linh-kien?up_id=13448529226&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B45%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09425122___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13448529226___scm--1007.17253.333258.0___objType--category___categoryId--12909___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13448529226&version=v2&q=mạch điện  linh kiện&params=%7B%22catIdLv1%22%3A%2212646%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22M%25E1%25BA%25A1ch%2B%25C4%2591i%25E1%25BB%2587n%2B%2BLinh%2Bki%25E1%25BB%2587n%22%2C%22categoryId%22%3A%2212909%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+45%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09425122___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13448529226___scm--1007.17253.333258.0___objType--category___categoryId--12909___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+45%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09425122___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13448529226___scm--1007.17253.333258.0___objType--category___categoryId--12909___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "12",
+                  "categoryId": "6371",
+                  "leafCategoryName": "#Giày sneaker nam",
+                  "categoryName": "Giày sneaker nam",
+                  "categoryImg": "https://sg-test-11.slatic.net/p/c05b3bd5604ac00d39bbc508cacf2258.jpg",
+                  "categoryUrl": "//www.lazada.vn/giay-sneaker-nam?up_id=13446159204&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B9%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09321951___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13446159204___scm--1007.17253.333258.0___objType--category___categoryId--6371___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13446159204&version=v2&q=giày sneaker nam&params=%7B%22catIdLv1%22%3A%2262541201%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Gi%25C3%25A0y%2Bsneaker%2Bnam%22%2C%22categoryId%22%3A%226371%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+9%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09321951___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13446159204___scm--1007.17253.333258.0___objType--category___categoryId--6371___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+9%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09321951___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13446159204___scm--1007.17253.333258.0___objType--category___categoryId--6371___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "13",
+                  "categoryId": "10100100",
+                  "leafCategoryName": "#Đồ trang trí & mô hình Giáng Sinh",
+                  "categoryName": "Đồ trang trí & mô hình Giáng Sinh",
+                  "categoryImg": "https://sg-test-11.slatic.net/p/13f3aac64d320e039393f16d510075ca.jpg",
+                  "categoryUrl": "//www.lazada.vn/shop-christmas-decoration-&-models?up_id=13469474678&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B41%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.092882924___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13469474678___scm--1007.17253.333258.0___objType--category___categoryId--10100100___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13469474678&version=v2&q=đồ trang trí  mô hình giáng sinh&params=%7B%22catIdLv1%22%3A%2210100083%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22%25C4%2590%25E1%25BB%2593%2Btrang%2Btr%25C3%25AD%2B%2Bm%25C3%25B4%2Bh%25C3%25ACnh%2BGi%25C3%25A1ng%2BSinh%22%2C%22categoryId%22%3A%2210100100%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+41%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.092882924___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13469474678___scm--1007.17253.333258.0___objType--category___categoryId--10100100___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+41%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.092882924___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13469474678___scm--1007.17253.333258.0___objType--category___categoryId--10100100___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "14",
+                  "categoryId": "15184",
+                  "leafCategoryName": "#Bộ sạc có dây",
+                  "categoryName": "Bộ sạc có dây",
+                  "categoryImg": "https://ae01.alicdn.com/kf/S4da81bcf85654d368b2b2b841506e0dbH.jpg",
+                  "categoryUrl": "//www.lazada.vn/bo-sac-co-day-cho-dien-thoai?up_id=13461070451&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B34%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09800244___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13461070451___scm--1007.17253.333258.0___objType--category___categoryId--15184___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13461070451&version=v2&q=bộ sạc có dây&params=%7B%22catIdLv1%22%3A%2242062201%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22B%25E1%25BB%2599%2Bs%25E1%25BA%25A1c%2Bc%25C3%25B3%2Bd%25C3%25A2y%22%2C%22categoryId%22%3A%2215184%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+34%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09800244___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13461070451___scm--1007.17253.333258.0___objType--category___categoryId--15184___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+34%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.09800244___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13461070451___scm--1007.17253.333258.0___objType--category___categoryId--15184___cvr--0.0___timestamp--1791170522724"
+                },
+                {
+                  "id": "15",
+                  "categoryId": "4585",
+                  "leafCategoryName": "#Tai nghe nhét tai",
+                  "categoryName": "Tai nghe nhét tai",
+                  "categoryImg": "https://filebroker-cdn.lazada.vn/kf/S190964e8724e4fb9b4afd5c3e3cb75beE.png",
+                  "categoryUrl": "//www.lazada.vn/shop-in-ear-headphones?up_id=13468475353&clickTrackInfo=ctr--0.0___matchType--20___description--Gi%25E1%25BA%25A3m%2B64%2525___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.097158544___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13468475353___scm--1007.17253.333258.0___objType--category___categoryId--4585___cvr--0.0___timestamp--1791170522724&from=hp_categories&item_id=13468475353&version=v2&q=tai nghe nhét tai&params=%7B%22catIdLv1%22%3A%2210100387%22%2C%22pvid%22%3A%22ae0d4679-67f3-4c49-b0d7-aa009a158dfb%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Tai%2Bnghe%2Bnh%25C3%25A9t%2Btai%22%2C%22categoryId%22%3A%224585%22%7D&src=hp_categories",
+                  "_self_scm": "1007.17253.333258.0",
+                  "trackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+64%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.097158544___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13468475353___scm--1007.17253.333258.0___objType--category___categoryId--4585___cvr--0.0___timestamp--1791170522724",
+                  "clickTrackInfo": "ctr--0.0___matchType--20___description--Gi%E1%BA%A3m+64%25___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--333258___score--0.097158544___pvid--ae0d4679-67f3-4c49-b0d7-aa009a158dfb___refer--___appId--7253___seedItemId--13468475353___scm--1007.17253.333258.0___objType--category___categoryId--4585___cvr--0.0___timestamp--1791170522724"
+                }
+              ]
+            }
+          },
+          {
+            "id": 1791170522703,
+            "moduleId": "bottomBannerPC",
+            "fields": {
+              "settings": {
+                "data": [
+                  {
+                    "bannerTitle_en": "nCOD",
+                    "bannerTitle": "nCOD",
+                    "bannerTitle_vi": "nCOD",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/vn/thanh-toan/uu-dai-thanh-toan",
+                    "bannerImg": "https://lzd-img-global.slatic.net/us/domino/474e65da5a6ed1a078c0e66e929d378b.png"
+                  },
+                  {
+                    "bannerTitle_en": "VIB Lazcard",
+                    "bannerTitle": "VIB Lazcard:",
+                    "bannerTitle_vi": "VIB Lazcard:",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/vn/partnership/viblazcard",
+                    "bannerImg": "https://lzd-img-global.slatic.net/us/domino/f3947c0bcaf171d91ac032e2820bbb88.png"
+                  },
+                  {
+                    "bannerTitle_en": "UOB",
+                    "bannerTitle": "UOB",
+                    "bannerTitle_vi": "UOB",
+                    "bannerUrl": "https://pages.lazada.vn/wow/gcp/lazada/channel/vn/partnership/lazada-citi-mo-the",
+                    "bannerImg": "https://lzd-img-global.slatic.net/us/domino/37713475645bb0698c30715499fdef2d.png"
+                  }
+                ],
+                "configPrimaryKey": 26932
+              },
+              "datas": []
+            }
+          },
+          {
+            "id": 1791170522768,
+            "tag": "justForYouLabel",
+            "moduleId": "justForYouLabel",
+            "tagId": "label",
+            "type": "label",
+            "fields": {
+              "id": "5195938332",
+              "title": "Just For You"
+            }
+          },
+          {
+            "fields": {
+              "datas": [
+                {
+                  "__data_url": "mtop.lazada.recommend.hp.jfy.service",
+                  "__data_type": "jsonp",
+                  "__data_source": "ald",
+                  "__data_param": {
+                    "mobileSlot": "200",
+                    "appId": "",
+                    "pcSlot": "200",
+                    "terminalType": "1"
+                  },
+                  "__data_default": {
+                    "length": 200
+                  }
+                }
+              ]
+            },
+            "tag": "justForYou",
+            "moduleId": "justForYou",
+            "tagId": "data",
+            "pageId": "5000379",
+            "resourceCode": "icms-zebra-5000379-2586240"
+          }
+        ],
+        "meta": {
+          "appVersion": "6.0.0",
+          "expireTime": 1791256922768,
+          "regionId": "vn",
+          "serverTime": 1791170522768,
+          "language": "vi",
+          "platform": "pc"
+        },
+        "__pos__": 1,
+        "__track__": "31374205.31374205.39456570.4273.1"
+      }
+    }
+  },
+  "modulesStaticI18n": {
+    "voyager": {
+      "lzd.homepage-new.flashmodule.sold": "Đã bán",
+      "lzd.homepage-new.flashmodule.title": "Deal Chớp Nhoáng",
+      "lzd.homepage-new.jfymodule.load-more": "TẢI THÊM",
+      "lzd.homepage-new.flashmodule.start": "Bắt đầu lúc",
+      "lzd.homepage-new.jfymodule.jfy-title": "Dành riêng cho bạn",
+      "lzd.homepage-new.flashmodule.shopAllPro": "mua sắm toàn bộ sản phẩm",
+      "lzd.homepage-new.flashmodule.onsalenow": "Đang bán",
+      "lzd.homepage-new.lazmall-module.title": "LazMall",
+      "lzd.homepage-new.flashmodule.end": "Kết thúc trong",
+      "lzd.homepage-new.flashmodule.today": "Hôm nay",
+      "lzd.homepage-new.category-module.title": "Danh mục ngành hàng",
+      "lzd.homepage-new.flashmodule.sold-out": "Đã bán hết",
+      "lzd.homepage-new.flashmodule.tomorrow": "Ngày mai",
+      "lzd.homepage-new.jfymodule.jfy-list-end": "Bạn đã kết thúc \\n Tìm kiếm thêm để tiếp tục khám phá",
+      "lzd.homepage-new.common-module.shopMore": "Xem thêm"
+    }
+  },
+  "sysInfo": {
+    "isAliIntranet": false,
+    "whEnv": "production",
+    "isGrey": false,
+    "serverTime": "1791170522681"
+  },
+  "pageInfo": {
+    "publishTime": 1782892378216,
+    "testPage": 0,
+    "spma": "a2o4n",
+    "spmb": "homepage",
+    "title": "",
+    "offlineUrl": "https://pages.lazada.vn",
+    "theme": "{}",
+    "offlineTime": 31559702400000,
+    "id": 80283962,
+    "itraceBid": "nzk9v4lx-mcsc0hok",
+    "campaignPhase": "mega",
+    "campaignId": "1010760",
+    "campaignName": null,
+    "pageConfigId": null,
+    "scenarioId": null,
+    "utPageName": "Page_AMS_pegasus_80283962",
+    "fri": {
+      "floorCustomize": "[{\"isFloorCustomize\":false,\"moduleUUID\":\"5624236490\",\"distinctId\":\"5624236490\",\"id\":\"5624236490\",\"__pos__\":1,\"__track__\":\"6843028.6843028.28168046.6660.1\"},{\"isFloorCustomize\":false,\"moduleUUID\":\"8160929750\",\"distinctId\":\"8160929750\",\"id\":\"8160929750\",\"__pos__\":2,\"__track__\":\"6843028.6843028.28168046.6660.2\"},{\"isFloorCustomize\":false,\"moduleUUID\":\"8849744590\",\"distinctId\":\"8849744590\",\"id\":\"8849744590\",\"__pos__\":3,\"__track__\":\"6843028.6843028.28168046.6660.3\"}]",
+      "moduleIdList": [
+        "5624236490",
+        "8160929750",
+        "8849744590"
+      ]
+    }
+  },
+  "renderExtends": {
+    "uprRouterPath": "",
+    "keywords": "",
+    "description": "",
+    "pid": "gcp-1010760",
+    "i18nTitle": {
+      "default": "Lazada Việt Nam | Mua Sắm Online, Giá Tốt Nhất Mỗi Ngày",
+      "vi": "Lazada Việt Nam | Mua Sắm Online, Giá Tốt Nhất Mỗi Ngày",
+      "en": "Lazada Việt Nam | Mua Sắm Online, Giá Tốt Nhất Mỗi Ngày"
+    },
+    "metaTags": [],
+    "nameLocal": "Lazada Việt Nam | Mua Sắm Online, Giá Tốt Nhất Mỗi Ngày",
+    "linkTags": [],
+    "descriptionLocal": "",
+    "seoData": {
+      "description": "Mua sắm đồ điện tử, thời trang, làm đẹp và đồ chơi giá cả phải chăng. Đảm bảo sản phẩm chính hãng và trải nghiệm mua sắm tiện lợi – mua ngay và tận hưởng những ưu đãi tốt nhất!",
+      "canonical": "https://www.lazada.vn"
+    },
+    "itraceBid": "nzk9v4lx-mcsc0hok",
+    "scriptTag": [],
+    "keywordsLocal": "",
+    "disable": false,
+    "showMore": false
+  },
+  "modules": [
+    {
+      "componentId": 75408,
+      "hidden": "false",
+      "modSpec": "1.0",
+      "name": "lzdrwb-seometa",
+      "fullName": "@ali/lzdrwb-seometa",
+      "uuid": "8160929750",
+      "version": "5.0.3",
+      "componentVersionId": 600536,
+      "dataConfig": {}
+    },
+    {
+      "componentId": 123962,
+      "hidden": "false",
+      "name": "lzdrwb-homepage-react",
+      "kangaroo": {
+        "ssrEnabled": true
+      },
+      "fullName": "@ali/lzdrwb-homepage-react",
+      "uuid": "8849744590",
+      "version": "1.3.5",
+      "componentVersionId": 1747816,
+      "dataConfig": {}
+    }
+  ],
+  "outputOriginalJson": true,
+  "bizId": 1000022,
+  "pageDtcOpen": false,
+  "device": "pc",
+  "isKangarooLzdCampaignHandlerDebuging": 180,
+  "pvuuid": "1791170522681",
+  "fri": {
+    "floorCustomize": "[{\"isFloorCustomize\":false,\"moduleUUID\":\"5624236490\",\"distinctId\":\"5624236490\",\"id\":\"5624236490\",\"__pos__\":1,\"__track__\":\"6843028.6843028.28168046.6660.1\"},{\"isFloorCustomize\":false,\"moduleUUID\":\"8160929750\",\"distinctId\":\"8160929750\",\"id\":\"8160929750\",\"__pos__\":2,\"__track__\":\"6843028.6843028.28168046.6660.2\"},{\"isFloorCustomize\":false,\"moduleUUID\":\"8849744590\",\"distinctId\":\"8849744590\",\"id\":\"8849744590\",\"__pos__\":3,\"__track__\":\"6843028.6843028.28168046.6660.3\"}]",
+    "moduleIdList": [
+      "5624236490",
+      "8160929750",
+      "8849744590"
+    ]
+  },
+  "isFirstScreen": true,
+  "previewEnv": "",
+  "allUI": [],
+  "isFloorCustomized": true,
+  "darkModeEnabled": false,
+  "hasMoreModules": false,
+  "trackMap": {},
+  "moduleIdsWithoutValidData": [],
+  "prefetchTime": 80,
+  "prefetchCount": 1,
+  "prefetchSuccessCount": 1,
+  "floorTitles": {},
+  "seedComboUris": [
+    {
+      "type": "js",
+      "uri": "//g.lazcdn.com/g/??code/npm/@ali/lzdrwb-seometa/5.0.3/index-pc.js,rax-pkg/rax/1.0.15/index.js,code/npm/@ali/lzdrwb-homepage-react/1.3.5/index-pc.js,code/npm/@ali/pnpm-react/18.2.0/index.js,code/npm/@ali/pnpm-react/18.2.0/6a96e9f5.js,code/npm/@ali/gcom-lzd-qs/1.3.4/index.js,code/npm/@ali/gcom-lang-i18n/1.0.0/index.js,code/npm/@ali/gcom-jsonp/1.4.0/index.js,code/npm/@ali/gcom-lzd-cookie/1.7.0/index.js,code/npm/@ali/pnpm-react-dom/18.2.1/client.js,code/npm/@ali/pnpm-react-dom/18.2.1/280b565f.js,code/npm/@ali/gcom-lzd-mtop/1.3.0/index.js,code/npm/@ali/gcom-lzd-env/1.5.0/index.js,code/npm/@ali/gcom-lzd-sites/1.7.0/index.js,code/npm/@ali/pnpm-react-dom/18.2.1/index.js,code/npm/@ali/gcom-lzd-resize/1.5.4/index.js,code/npm/@ali/pnpm-react/18.2.0/jsx-runtime.js,code/npm/@ali/lzdrwb-homepage-react/1.3.5/vendor.cjs.es5.production.js"
+    },
+    {
+      "type": "css",
+      "uri": "//g.lazcdn.com/g/code/npm/@ali/lzdrwb-homepage-react/1.3.5/??vendor.cjs.es5.production.css,index-pc.cjs.es5.production.css"
+    }
+  ],
+  "ssrEnabled": true,
+  "handlerRT": 102,
+  "failApp": [],
+  "success": true,
+  "defaultBottomUrl": "https://kangaroo.alicdn.com/bottom/aHR0cHM6Ly9wYWdlcy5sYXphZGEudm4vd293L2djcC9yb3V0ZS9sYXphZGEvdm4vdXByXzEwMDAzNDVfbGF6YWRhL2NoYW5uZWwvdm4vdXByLXJvdXRlci92bj93aF9waWQ9JTJGbGF6YWRhJTJGY2hhbm5lbCUyRnZuJTJGaG9tZXBhZ2UlMkZob21l/currency=vnd/device=pc/language=vi/regionId=vn/data.jsonp",
+  "defaultBottomKey": "aHR0cHM6Ly9wYWdlcy5sYXphZGEudm4vd293L2djcC9yb3V0ZS9sYXphZGEvdm4vdXByXzEwMDAzNDVfbGF6YWRhL2NoYW5uZWwvdm4vdXByLXJvdXRlci92bj93aF9waWQ9JTJGbGF6YWRhJTJGY2hhbm5lbCUyRnZuJTJGaG9tZXBhZ2UlMkZob21l/currency=vnd/device=pc/language=vi/regionId=vn",
+  "traceId": "9c3b89a917911705225387847e",
+  "hngLanguage": "vi",
+  "ssrSkippedReason": null,
+  "ssrType": "TRADITION_SSR",
+  "ssrPrefetch": false,
+  "pageTitle": ""
+}

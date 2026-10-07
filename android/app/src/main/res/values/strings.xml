@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lazada Hunter</string>
+    <string name="service_channel_name">Lazada Hunter Scanner</string>
+    <string name="service_channel_desc">Tiến trình quét deal Flash Sale chạy ngầm</string>
+    <string name="service_running_title">⚡ DZUx Lazada Hunter Pro</string>
+    <string name="service_running_text">Đang quét ngầm deal Flash Sale & cập nhật giá trợ giá...</string>
+</resources>

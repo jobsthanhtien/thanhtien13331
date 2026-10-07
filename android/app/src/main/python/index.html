@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Săn Deal Lazada Giảm Giá Tới 80% - DZUx Private Edition</title>
+    <!-- Google Fonts Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Top Header -->
+    <header class="top-nav">
+        <div class="search-container">
+            <input type="text" id="search-input" class="search-input" placeholder="Nhập để tìm deal giảm giá..."
+                oninput="debounceSearch()">
+            <button class="search-icon-btn" onclick="loadDeals()">🔍</button>
+        </div>
+        <div class="nav-actions">
+            <button class="btn-nav btn-crawl" id="btn-crawl-now" onclick="triggerCrawlNow()">
+                <span id="crawl-icon">⚡</span>
+                <span id="crawl-text">Quét Toàn Sàn</span>
+            </button>
+            <a href="https://t.me/s/gocsandeal" target="_blank" rel="noopener noreferrer" class="btn-nav btn-tele">
+                Nhóm Telegram
+            </a>
+            <button class="btn-nav btn-login" onclick="openSettingsModal()">
+                ⚙️ Cài Đặt
+            </button>
+        </div>
+    </header>
+
+    <div class="main-wrapper">
+        <!-- Hero Banner -->
+        <section class="banner-section">
+            <div class="banner-text">
+                <h2>⚡ SĂN FLASH SALE LAZADA</h2>
+                <h2 class="highlight">Giảm giá tới 80% Toàn Sàn</h2>
+                <p>Hệ thống tự động lọc giá Flash Sale & săn trợ giá triệu deal toàn sàn không dính Captcha</p>
+            </div>
+            <div class="banner-icons">
+                ⚡ 📱 👟 🥛 🎧 📦
+            </div>
+        </section>
+
+        <!-- Deal Status & Timer Box -->
+        <section class="deal-status-box">
+            <div class="status-left">
+                <div class="status-avatar">🐱</div>
+                <div class="status-info">
+                    <div>
+                        <strong style="color: #d63384;">Flash Sale cập nhật lúc:</strong>
+                        <span id="last-update-time" class="update-badge">Đang tải...</span>
+                        <span style="color: #868e96; margin-left: 8px;">(Đang có <strong id="total-deals-count"
+                                style="color: #3b5bdb;">0</strong> deal Flash Sale toàn sàn)</span>
+                    </div>
+                    <div class="timer-row">
+                        ⏳ Còn
+                        <span id="deal-hours" class="time-digit">00</span> :
+                        <span id="deal-minutes" class="time-digit">00</span> :
+                        <span id="deal-seconds" class="time-digit">00</span> s
+                        <span id="deal-next-slot" style="font-weight: 600; color: #495057;">Lên Flash Sale Khung
+                            12H</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Category & Quick Filter Section -->
+        <section class="category-wrapper">
+            <!-- Row 1: 5 Major Categories -->
+            <div class="category-container">
+                <button class="cat-btn active" data-category="all" onclick="selectCategory('all', this)">⚡ Tất cả
+                    Deal</button>
+                <button class="cat-btn" data-category="dien_tu" onclick="selectCategory('dien_tu', this)">📱 Điện
+                    Tử</button>
+                <button class="cat-btn" data-category="gia_dung" onclick="selectCategory('gia_dung', this)">🏠 Gia Dụng
+                    &amp; Đời Sống</button>
+                <button class="cat-btn" data-category="thoi_trang" onclick="selectCategory('thoi_trang', this)">👗 Thời
+                    Trang</button>
+                <button class="cat-btn" data-category="my_pham" onclick="selectCategory('my_pham', this)">💄 Mỹ
+                    Phẩm</button>
+                <button class="cat-btn" data-category="bach_hoa" onclick="selectCategory('bach_hoa', this)">🛒 Bách
+                    Hóa</button>
+            </div>
+
+            <!-- Row 2: Quick Price & Deal Filters -->
+            <div class="quick-filter-container">
+                <button class="filter-pill-btn active" data-filter="all" onclick="selectQuickFilter('all', this)">Tất cả
+                    mức giá</button>
+                <button class="filter-pill-btn" data-filter="discount_50"
+                    onclick="selectQuickFilter('discount_50', this)">🔥 Giảm &gt; 50%</button>
+                <button class="filter-pill-btn" data-filter="price_50k" onclick="selectQuickFilter('price_50k', this)">⚡
+                    Deal &lt; 50k</button>
+                <button class="filter-pill-btn" data-filter="price_1k_9k"
+                    onclick="selectQuickFilter('price_1k_9k', this)">🎯 1k - 9k</button>
+                <button class="filter-pill-btn" data-filter="tmall" onclick="selectQuickFilter('tmall', this)">💎 Deal
+                    Tmall / LazGlobal</button>
+            </div>
+        </section>
+
+        <!-- Product Grid -->
+        <main class="product-grid" id="product-grid">
+            <!-- Dynamic product cards will be rendered here -->
+        </main>
+
+        <div id="empty-state" class="empty-state" style="display: none;">
+            <div style="font-size: 40px; margin-bottom: 10px;">🔍</div>
+            <p>Không tìm thấy deal nào phù hợp trong danh mục này.</p>
+        </div>
+
+        <!-- Load More Container -->
+        <div class="load-more-container" id="load-more-container" style="display: none;">
+            <button class="btn-load-more" onclick="loadMoreDeals()">
+                Xem thêm deal toàn sàn ⬇
+            </button>
+        </div>
+    </div>
+
+    <!-- Settings Modal -->
+    <div class="modal-overlay" id="settings-modal">
+        <div class="modal-box">
+            <div class="modal-header">
+                <h3>Cấu Hình DZUx Săn Deal</h3>
+                <button class="modal-close" onclick="closeSettingsModal()">&times;</button>
+            </div>
+            <div class="form-group">
+                <label>Lazada Affiliate Sub-ID (Mã Nhận Hoa Hồng):</label>
+                <input type="text" id="cfg-aff-id" placeholder="cheetah hoặc ID cá nhân">
+            </div>
+            <div class="form-group">
+                <label>Telegram Bot Token:</label>
+                <input type="text" id="cfg-tele-token" placeholder="Bot Token từ @BotFather">
+            </div>
+            <div class="form-group">
+                <label>Telegram Chat ID:</label>
+                <input type="text" id="cfg-tele-chat" placeholder="Channel / Group ID">
+            </div>
+            <div class="form-group">
+                <label>Tự động quét ngầm mỗi (Phút):</label>
+                <input type="number" id="cfg-interval" value="15" min="2" max="180">
+            </div>
+            <div style="display: flex; gap: 10px; margin-top: 20px;">
+                <button class="btn-nav btn-tele" style="flex: 1;" onclick="saveSettings()">Lưu Cấu Hình</button>
+                <button class="btn-nav btn-crawl" onclick="testTelegramAlert()">Bắn Thử Telegram</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

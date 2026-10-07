@@ -1,0 +1,26 @@
+# SQLite database & local caches
+*.db
+*.db-journal
+__pycache__/
+*.py[cod]
+
+# Temp files
+*.html.tmp
+*.json.tmp
+deal_tmall_page.html
+lazada_flashsale.html
+lazflash_route.html
+
+# Android build artifacts
+.gradle/
+build/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
